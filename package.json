@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/eniotnam/ReactJS",
+  "homepage": "https://github.com/eniotnam/pack-npm",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eniotnam/ReactJS.git"
+    "url": "https://github.com/eniotnam/pack-npm.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
